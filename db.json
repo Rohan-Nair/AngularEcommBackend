@@ -39,7 +39,7 @@
     {
       "id": 4,
       "title": "MARS - EyeShadow",
-      "price": 99,
+      "price": 200,
       "description": "Create stunning eye looks with our MARS eyeshadow palette. 👁️✨",
       "image": "https://images-static.nykaa.com/media/catalog/product/a/5/a58e85cMARSX00000116_1.jpg?tr=w-344,h-344,cm-pad_resize",
       "rating": {
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "title": "Glow Radiance - Highlighter",
-      "price": 29,
+      "price": 70,
       "description": "Get that radiant glow with our Glow Radiance highlighter. ✨",
       "category": "highlighter",
       "image": "https://m.media-amazon.com/images/I/71U1HPKRp+L._SX522_.jpg",
@@ -74,7 +74,7 @@
     {
       "id": 7,
       "title": "Lash Luxe - Mascara",
-      "price": 15,
+      "price": 45,
       "description": "Enhance your lashes with our Lash Luxe mascara. 👁️💕",
       "category": "mascara",
       "image": "https://m.media-amazon.com/images/I/51XBKyAfSeL._SY879_.jpg",
@@ -86,7 +86,7 @@
     {
       "id": 8,
       "title": "Sun Kissed - Bronzer",
-      "price": 39,
+      "price": 50,
       "description": "Get a sun-kissed glow with our Sun Kissed bronzer. ☀️✨",
       "category": "bronzer",
       "image": "https://m.media-amazon.com/images/I/61jXP9yNnLL._SX522_.jpg",
@@ -98,7 +98,7 @@
     {
       "id": 9,
       "title": "Flawless Finish - Powder",
-      "price": 19,
+      "price": 35,
       "description": "Achieve a flawless finish with our Flawless Finish powder. 🌟",
       "category": "powder",
       "image": "https://m.media-amazon.com/images/I/415yMX-LqGL._SX679_.jpg",
@@ -117,6 +117,18 @@
       "rating": {
         "rate": 4.3,
         "count": 85
+      }
+    },
+    {
+      "id": 11,
+      "title": "Radiant Glow - Setting Spray",
+      "price": 19,
+      "description": "Set your makeup and achieve a radiant glow with our Radiant Glow setting spray. ✨🌟",
+      "category": "setting spray",
+      "image": "https://www.instyle.com/thmb/_Xa8XRUTg7wGE6UMzx_s9FVuiBg=/1200x0/filters:no_upscale():max_bytes(150000):strip_icc()/070720-setting-sprays-embed7-ec43087a1d814f8fb71fe861cbae3971.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 55
       }
     }
   ]
