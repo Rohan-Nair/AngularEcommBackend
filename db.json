@@ -16,7 +16,7 @@
       "id": 2,
       "title": "Live Loud - Lipstick",
       "price": 99,
-      "description": "Get the perfect berry lip with our Live Loud lipstick. 💄💋",
+      "description": "Get the perfect berry lip with our Live Loud lipstick. 💄",
       "category": "lipstick",
       "image": "https://media.thebodyshop.in/media/catalog/product/1/0/1017383_1.jpg",
       "rating": {
@@ -28,7 +28,7 @@
       "id": 3,
       "title": "Life's Peachy - Lipstick",
       "price": 99,
-      "description": "Achieve a natural peach look with our Life's Peachy lipstick. 💄💄",
+      "description": "Achieve a natural peach look with our Life's Peachy lipstick. 💄",
       "category": "lipstick",
       "image": "https://media.thebodyshop.in/media/catalog/product/1/0/1017368_1.jpg",
       "rating": {
@@ -45,6 +45,78 @@
       "rating": {
         "rate": 4.2,
         "count": 80
+      }
+    },
+    {
+      "id": 5,
+      "title": "Silk Glam - Foundation",
+      "price": 49,
+      "description": "Achieve a silky, flawless finish with our Silk Glam foundation. 🌟",
+      "category": "foundation",
+      "image": "https://www.beautycarechoices.com/prod_images/1297/1000/37157.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 65
+      }
+    },
+    {
+      "id": 6,
+      "title": "Glow Radiance - Highlighter",
+      "price": 29,
+      "description": "Get that radiant glow with our Glow Radiance highlighter. ✨",
+      "category": "highlighter",
+      "image": "https://m.media-amazon.com/images/I/71U1HPKRp+L._SX522_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 90
+      }
+    },
+    {
+      "id": 7,
+      "title": "Lash Luxe - Mascara",
+      "price": 15,
+      "description": "Enhance your lashes with our Lash Luxe mascara. 👁️💕",
+      "category": "mascara",
+      "image": "https://m.media-amazon.com/images/I/51XBKyAfSeL._SY879_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 75
+      }
+    },
+    {
+      "id": 8,
+      "title": "Sun Kissed - Bronzer",
+      "price": 39,
+      "description": "Get a sun-kissed glow with our Sun Kissed bronzer. ☀️✨",
+      "category": "bronzer",
+      "image": "https://m.media-amazon.com/images/I/61jXP9yNnLL._SX522_.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 60
+      }
+    },
+    {
+      "id": 9,
+      "title": "Flawless Finish - Powder",
+      "price": 19,
+      "description": "Achieve a flawless finish with our Flawless Finish powder. 🌟",
+      "category": "powder",
+      "image": "https://m.media-amazon.com/images/I/415yMX-LqGL._SX679_.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 70
+      }
+    },
+    {
+      "id": 10,
+      "title": "Velvet Touch - Blush",
+      "price": 25,
+      "description": "Add a velvet touch of color with our Velvet Touch blush. 🌺💫",
+      "category": "blush",
+      "image": "https://m.media-amazon.com/images/I/51SQiGOlRML._SL1200_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 85
       }
     }
   ]
